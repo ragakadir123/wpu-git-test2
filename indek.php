@@ -10,7 +10,13 @@
 
 <body>
     <h1>Hello World!</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti modi deserunt asperiores fuga rerum natus suscipit consequatur quasi quis debitis, numquam, beatae quaerat amet, facilis in vero reiciendis voluptates tempore?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti modi deserunt asperiores fuga rerum natus suscipit consequatur quasi quis debitis, numquam, beatae quaerat amet, facilis in vero reiciendis voluptates tempore?b</p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 
 </html>
